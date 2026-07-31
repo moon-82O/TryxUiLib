@@ -1,4 +1,4 @@
-local BASE = "https://raw.githubusercontent.com/VOTRE_USER/TryxUiLib/main/"
+local BASE = "https://raw.githubusercontent.com/moon-82O/TryxUiLib/refs/heads/main/Main.lua"
 
 local TryxUiLib = loadstring(game:HttpGet(BASE .. "Main.lua"))()
 
