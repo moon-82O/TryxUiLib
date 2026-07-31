@@ -1,8 +1,8 @@
 local TweenService     = game:GetService("TweenService")
 local UserInputService = game:GetService("UserInputService")
 
-local Theme = loadstring(game:HttpGet("https://raw.githubusercontent.com/VOTRE_USER/TryxUiLib/main/Theme.lua"))()
-local Utils = loadstring(game:HttpGet("https://raw.githubusercontent.com/VOTRE_USER/TryxUiLib/main/Utils.lua"))()
+local Theme = loadstring(game:HttpGet("https://raw.githubusercontent.com/moon-82O/TryxUiLib/refs/heads/main/Theme.lua"))()
+local Utils = loadstring(game:HttpGet("https://raw.githubusercontent.com/moon-82O/TryxUiLib/refs/heads/main/Utils.lua"))()
 
 local Elements = {}
 
