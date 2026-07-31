@@ -3,9 +3,9 @@ local UserInputService = game:GetService("UserInputService")
 local CoreGui          = game:GetService("CoreGui")
 local Players          = game:GetService("Players")
 
-local Theme    = loadstring(game:HttpGet("https://raw.githubusercontent.com/VOTRE_USER/TryxUiLib/main/Theme.lua"))()
-local Utils    = loadstring(game:HttpGet("https://raw.githubusercontent.com/VOTRE_USER/TryxUiLib/main/Utils.lua"))()
-local Elements = loadstring(game:HttpGet("https://raw.githubusercontent.com/VOTRE_USER/TryxUiLib/main/Elements.lua"))()
+local Theme    = loadstring(game:HttpGet("https://raw.githubusercontent.com/moon-82O/TryxUiLib/refs/heads/main/Theme.lua"))()
+local Utils    = loadstring(game:HttpGet("https://raw.githubusercontent.com/moon-82O/TryxUiLib/refs/heads/main/Utils.lua"))()
+local Elements = loadstring(game:HttpGet("https://raw.githubusercontent.com/moon-82O/TryxUiLib/refs/heads/main/Elements.lua"))()
 
 local TryxUiLib = {}
 TryxUiLib.__index = TryxUiLib
