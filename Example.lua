@@ -1,6 +1,6 @@
-local BASE = "https://raw.githubusercontent.com/moon-82O/TryxUiLib/refs/heads/main/Main.lua"
+-- local BASE = "https://raw.githubusercontent.com/moon-82O/TryxUiLib/refs/heads/main/Main.lua"
 
-local TryxUiLib = loadstring(game:HttpGet(BASE .. "Main.lua"))()
+local TryxUiLib = loadstring(game:HttpGet('https://raw.githubusercontent.com/moon-82O/TryxUiLib/refs/heads/main/Main.lua'))()
 
 local Settings = {
     speedEnabled  = false,
